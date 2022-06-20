@@ -4,8 +4,8 @@ export default function Footer() {
       <footer className="p-3 text-center mb-20">
         <p>
           Dibuat dengan ❤ oleh{' '}
-          <a href="https://feri-irawan.netlify.app" target="_blank">
-            Feri Irawan
+          <a href="https://www.instagram.com/adi.cug" target="_blank">
+            M imam Adi
           </a>{' '}
           {/* untuk Sweet heartnya */}
         </p>
